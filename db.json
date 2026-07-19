@@ -7,11 +7,7 @@
     {
       "id": 2,
       "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    },
+    }
   ],
   "comments": [
     {
@@ -23,12 +19,7 @@
       "id": 2,
       "body": "some comment",
       "postId": 2
-    },
-    {
-      "id": 3,
-      "body": "post 3 testing wanna see what breaks",
-      "postId": 3
-    },
+    }
   ],
   "profile": {
     "name": "API learning"
