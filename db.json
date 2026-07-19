@@ -28,6 +28,7 @@
       "id": 3,
       "body": "post 3 testing wanna see what breaks"
       "postId": "3"
+    },
   ],
   "profile": {
     "name": "API learning"
