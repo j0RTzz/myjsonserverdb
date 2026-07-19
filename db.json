@@ -1,4 +1,4 @@
-
+{
   "posts": [
     {
       "id": 1,
@@ -26,6 +26,6 @@
     }
   ],
   "profile": {
-    "name": "Test API Server"
+    "name": "typicode"
   }
-
+}
